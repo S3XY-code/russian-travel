@@ -1,6 +1,9 @@
 .lead {
-    height: 1005px;
-    width: 984px;
-    padding-left: 148px;
-    padding-right: 148px;
+    padding: 56px 48px 0;
+    min-width: 984px;
+    margin: 0 auto 0;
+    color:#FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
